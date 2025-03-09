@@ -33,4 +33,4 @@ Kolective is a cutting-edge Web3 platform designed to help users navigate the wo
 - 🌍 **Website**: [Kolective](https://kolective.vercel.app)
 - 🐦 **Twitter**: [@kolective_ai](https://x.com/kolective_ai)
 - 📑 **Documentation**: [Kolective Gitbook](https://kolective.gitbook.io/docs)
-- 🎥 **Live Demo**: [Kolective Gitbook](https://youtu.be/x6hh2CjIm7Q?si=iXLEifzgmPENt93p)
+- 🎥 **Live Demo**: [Live Demo](https://youtu.be/x6hh2CjIm7Q?si=iXLEifzgmPENt93p)
